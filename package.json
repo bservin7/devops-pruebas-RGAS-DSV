@@ -1,0 +1,28 @@
+{
+  "name": "devops-pruebas-rgas-dsv",
+  "version": "1.0.0",
+  "description": "Pruebas Automatizadas en DevOps",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+"scripts": {
+  "test": "mocha"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bservin7/devops-pruebas-RGAS-DSV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bservin7/devops-pruebas-RGAS-DSV/issues"
+  },
+  "homepage": "https://github.com/bservin7/devops-pruebas-RGAS-DSV#readme",
+  "devDependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2"
+  }
+}
